@@ -404,10 +404,7 @@ p{
 .skill-container li.jquery::after{
     animation-name: jquery;
 }
-.skill-container li.node::after{
-    animation-name: node;
-         
-}
+
 
 
 
@@ -426,10 +423,7 @@ p{
 }
 
 
-.skill-container li.react::after{
-    animation-name: react;
-         
-}
+
 
 
 
@@ -465,10 +459,7 @@ p{
 }
 
 
-@keyframes node{
-    to{
-        width: 0%;
-    }
+
 }
 
 @keyframes c{
@@ -486,10 +477,7 @@ p{
     }
 }
 
-@keyframes react{
-    to{
-        width: 30%;
-    }
+
 }
 
 
