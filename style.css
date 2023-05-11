@@ -441,39 +441,39 @@ p{
 
 @keyframes html{
     to{
-        width: 98%;
+        width: 60%;
     }
 }
 
 @keyframes css{
     to{
-        width: 95%;
+        width: 60%;
     }
 }
 
 
 @keyframes bootstrap{
     to{
-        width: 70%;
+        width: 20%;
     }
 }
 
 @keyframes jquery{
     to{
-        width: 75%;
+        width: 10%;
     }
 }
 
 
 @keyframes node{
     to{
-        width: 35%;
+        width: 10%;
     }
 }
 
 @keyframes c{
     to{
-        width: 90%;
+        width: 70%;
     }
 }
 
@@ -482,13 +482,13 @@ p{
 
 @keyframes cc{
     to{
-        width: 90%;
+        width: 40%;
     }
 }
 
 @keyframes react{
     to{
-        width: 80%;
+        width: 30%;
     }
 }
 
@@ -496,7 +496,7 @@ p{
 
 @keyframes git{
     to{
-        width: 75%;
+        width: 40%;
     }
 }
 
